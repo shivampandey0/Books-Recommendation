@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap");
+.App {
+  font-family: "Lora", serif;
+  text-align: start;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
